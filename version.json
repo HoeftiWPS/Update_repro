@@ -1,8 +1,8 @@
 {
-  "version": "Alpha 1.103",
-  "version_code": 203,
+  "version": "Alpha 1.104",
+  "version_code": 204,
   "mandatory": false,
-  "package": "packages/ServiceHub_Alpha_1.103.zip",
-  "checksum_sha256": "",
+  "package": "packages/ServiceHub_Alpha_1.104.zip",
+  "checksum_sha256": "a5af708d999d2b5cc46b9b29d99e02a8a57ae7391fc35442b980710ceb422a49",
   "notes": []
 }
