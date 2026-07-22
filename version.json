@@ -2,7 +2,7 @@
   "version": "Alpha 1.106",
   "version_code": 206,
   "mandatory": false,
-  "package": "packages/ServiceHub_Alpha_1.106.zip",
+  "package": "ServiceHub_Alpha_1.106.zip",
   "checksum_sha256": "bfeef5d3c54c14d6ac61a8e4ae47dbc69b928d62ce204270a7bf53018a8ab122",
   "notes": []
 }
